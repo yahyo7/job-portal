@@ -1,4 +1,4 @@
- [
+ { "jobs": [
       {
         "id": "1",
         "title": "Senior React Developer",
@@ -84,4 +84,4 @@
         }
       }
     ]
-  
+ }
